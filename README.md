@@ -1,0 +1,1 @@
+This is a codecademy exercise to practise creating simple web pages using html, css and github pages
